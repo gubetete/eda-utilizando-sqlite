@@ -1,2 +1,2 @@
-# eda-utilizando-sqlite
+# Análixe Exploratória Utilizando o SQLite
  
