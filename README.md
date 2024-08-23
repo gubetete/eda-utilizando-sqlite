@@ -1,2 +1,2 @@
-# Análixe Exploratória Utilizando o SQLite
+# Análise Exploratória Utilizando o SQLite
  
