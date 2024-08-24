@@ -1,4 +1,4 @@
-# Análise Exploratória Utilizando o SQLite
+# ANÁLISE EXPLORATÓRIA UTILIZANDO SQLITE
 
 ## OBJETIVO
 Este projeto tem como objetivo realizar uma análise exploratória simples, respondendo cinco perguntas utilizando apenas SQLite + dBeaver. 
