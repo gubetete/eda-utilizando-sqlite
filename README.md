@@ -5,6 +5,8 @@ Este projeto tem como objetivo realizar uma análise exploratória simples, resp
 Neste projeto, busquei aprimorar minhas habilidades em manipulação de dados e consulta em bancos de dados relacionais. A análise inclui a aplicação de técnicas como:
 Funções de Agregação, Manipulação de Data, Condicionais com CASE WHEN, CTEs e JOINs entre Tabelas.
 
+O dataset escolhido foi o [Marketplace Transactional Dataset](https://www.kaggle.com/datasets/petewojtczak/raw-transactional-data) que fornece dados transacionais, consistindo em cinco tabelas inter-relacionadas:
+
 Etapa 1<br>
 ![pergunta1](imgs/img1%20-%20conhecendodataset.png)
 
@@ -28,4 +30,4 @@ Etapa 6<br>
 ![pergunta1](imgs/img6%20-%20ask5.png)
 ![pergunta1](imgs/img6%20-%20ask5r.png)
 
-Fonte de dados: [Marketplace Transactional Dataset](https://www.kaggle.com/datasets/petewojtczak/raw-transactional-data)
+
