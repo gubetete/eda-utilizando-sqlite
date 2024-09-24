@@ -10,7 +10,7 @@ O dataset escolhido foi o [Marketplace Transactional Dataset](https://www.kaggle
 1. Explorando as tabelas pela primeira vez no banco de dados uso o comando LIMIT para evitar o carregamento excessivo dos dados;<br>
 ![pergunta1](imgs/img1%20-%20conhecendodataset.png)
 
-Etapa 2<br>
+2. Para responder qual a categoria de produto mais 'comum' do marketplace utilizo o comando COUNT para contar a ocorrência de cada product_category_name. Em seguida, faço agrupamento dos resultados por categoria e ordeno pela contagem em ordem decrescente. Aplico limit para aparecer apenas a categoria mais frequente.<br>
 ![pergunta1](imgs/img2%20-%20ask1.png)
 ![pergunta1](imgs/img2%20-%20ask1r.png)
 
