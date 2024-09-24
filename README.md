@@ -7,7 +7,7 @@ Funções de Agregação, Manipulação de Data, Condicionais com CASE WHEN, CTE
 
 O dataset escolhido foi o [Marketplace Transactional Dataset](https://www.kaggle.com/datasets/petewojtczak/raw-transactional-data) que fornece dados transacionais, consistindo em cinco tabelas inter-relacionadas:
 
-Etapa 1<br>
+Explorando as tabelas pela primeira vez no banco de dados uso o comando LIMIT para evitar o carregamento excessivo dos dados;<br>
 ![pergunta1](imgs/img1%20-%20conhecendodataset.png)
 
 Etapa 2<br>
