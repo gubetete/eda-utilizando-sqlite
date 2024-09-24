@@ -27,7 +27,7 @@ Após definir a CTE, a consulta final seleciona o product_category_name e o prec
 ![pergunta1](imgs/img5%20-%20ask4.png)
 ![pergunta1](imgs/img5%20-%20ask4r.png)
 
-Etapa 6<br>
+6. Para responder sobre a relação entre o peso dos produtos e suas avaliações utilizei uma CTE e fiz um INNER JOIN entre três tabelas, products, order_items e order_reviews por product_id, order_id. Usei CASE para categorizar as faixas de peso entre menor que 1000g, entre 1000g e 10000g, entre 10000g e 20000g e maior que 20000g. Também fiz o cálculo das médias das avaliações e arredondei com ROUND. Agrupei pela faixa peso e ordenei com CASE para ficar organizado.<br>
 ![pergunta1](imgs/img6%20-%20ask5.png)
 ![pergunta1](imgs/img6%20-%20ask5r.png)
 
