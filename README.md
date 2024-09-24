@@ -22,7 +22,8 @@ Ordeno os preços encontrados na tabela order_items em ordem decrescente e exibo
 ![pergunta1](imgs/img4%20-%20ask3.png)
 ![pergunta1](imgs/img4%20-%20ask3r.png)
 
-Etapa 5<br>
+5. Na receita total gerada por cada produto, utilizei uma CTE para calcular o preço médio por categoria de produto, a consulta interna faz um SELECT do nome da categoria de produto (product_category_name) da tabela products e calcula a média dos preços da tabela order_items relacionada através de um INNER JOIN usando o product_id comum às duas tabelas. Por fim, utilizo ROUND para arredondar o valor da média dos preços.
+Após definir a CTE, a consulta final seleciona o product_category_name e o preco_medio da CTE media_preco, ordenando os resultados em ordem alfabética (ORDER BY product_category_name).<br>
 ![pergunta1](imgs/img5%20-%20ask4.png)
 ![pergunta1](imgs/img5%20-%20ask4r.png)
 
