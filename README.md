@@ -14,7 +14,9 @@ O dataset escolhido foi o [Marketplace Transactional Dataset](https://www.kaggle
 ![pergunta1](imgs/img2%20-%20ask1.png)
 ![pergunta1](imgs/img2%20-%20ask1r.png)
 
-Etapa 3<br>
+3. Para identificar o estado dos vendedores que possui os três produtos mais caros faço um inner join entre as tabelas order_items e sellers, utilizando o seller_id.
+
+Ordeno os preços encontrados na tabela order_items em ordem decrescente e exibo o estado dos vendedores encontrado na tabela sellers. Aplico LIMIT 3 para trazer os três maiores preços<br>
 ![pergunta1](imgs/img3%20-%20ask2.png)
 ![pergunta1](imgs/img3%20-%20ask2r.png)
 
