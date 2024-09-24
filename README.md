@@ -2,8 +2,7 @@
 
 ## Objetivo:
 Este projeto tem como objetivo realizar uma análise exploratória simples, respondendo cinco perguntas utilizando apenas SQLite + dBeaver. 
-Neste projeto, busquei aprimorar minhas habilidades em manipulação de dados e consulta em bancos de dados relacionais. A análise inclui a aplicação de técnicas como:
-Funções de Agregação, Manipulação de Data, Condicionais com CASE WHEN, CTEs e JOINs entre Tabelas.
+A ideia é explicar o que fiz em cada código para conseguir responder a pergunta. Neste projeto, busquei aprimorar minhas habilidades em manipulação de dados e consulta em bancos de dados relacionais. A análise inclui a aplicação de técnicas como: Funções de Agregação, Manipulação de Data, Condicionais com CASE WHEN, CTEs e JOINs entre Tabelas.
 
 O dataset escolhido foi o [Marketplace Transactional Dataset](https://www.kaggle.com/datasets/petewojtczak/raw-transactional-data) que fornece dados transacionais, consistindo em cinco tabelas inter-relacionadas:
 
