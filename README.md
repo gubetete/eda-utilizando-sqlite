@@ -19,7 +19,7 @@ Ordeno os preços encontrados na tabela order_items em ordem decrescente e exibo
 ![pergunta1](imgs/img3%20-%20ask2.png)
 ![pergunta1](imgs/img3%20-%20ask2r.png)
 
-Etapa 4<br>
+4. Para responder sobre a distribuição de contatos com clientes, utilizo a função strftime para extrair apenas ano e mês da coluna timestamp fazendo a conversão para o formato AAAA-MM. Conto os contatos únicos utilizando COUNT(DISTINCT, faço agrupamento pelo campo year_month que foi gerado na função strftrime para calcular a contagem de contatos por mês, por fim, ordeno os resultados em ordem crescente.<br>
 ![pergunta1](imgs/img4%20-%20ask3.png)
 ![pergunta1](imgs/img4%20-%20ask3r.png)
 
